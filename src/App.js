@@ -18,7 +18,7 @@ function App() {
   return (
     <div className={classes.App}>
       <header>
-        <h1>video</h1>
+        <h1>Art video</h1>
       </header>
       {/* {data.map(video => (
         <div key={video.id}>
