@@ -1,40 +1,30 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ArtVideo",
+  "name": "Art Video for Fun and Learning",
   "icons": [
     {
-      "src": "logo-120.png",
+      "src": "logo120.png",
       "sizes": "120x120",
       "type": "image/png"
     },
     {
-      "src": "logo-144.png",
+      "src": "logo144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "logo-152.png",
+      "src": "logo152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "logo-167.png",
+      "src": "logo167.png",
       "sizes": "167x167",
       "type": "image/png"
     },
     {
-      "src": "logo-180.png",
+      "src": "logo180.png",
       "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "logo-192.png",
-      "sizes": "192x912",
-      "type": "image/png"
-    },
-    {
-      "src": "logo-512.png",
-      "sizes": "512x512",
       "type": "image/png"
     },
     {
